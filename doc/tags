@@ -1,0 +1,9 @@
+:Renamer	renamer.txt	/*:Renamer*
+renamer	renamer.txt	/*renamer*
+renamer-changelog	renamer.txt	/*renamer-changelog*
+renamer-description	renamer.txt	/*renamer-description*
+renamer-improvements	renamer.txt	/*renamer-improvements*
+renamer-install	renamer.txt	/*renamer-install*
+renamer-usage	renamer.txt	/*renamer-usage*
+renamer-win-right-click	renamer.txt	/*renamer-win-right-click*
+renamer.txt	renamer.txt	/*renamer.txt*
